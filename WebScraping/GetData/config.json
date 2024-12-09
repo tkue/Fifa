@@ -1,0 +1,28 @@
+{
+  "database": {
+      "name": "players.db",
+      "schema_script": "schema.sql"
+  },
+  "logging": {
+      "level": "DEBUG"
+  },
+  "session": {
+      "start_url": "https://www.futwiz.com/en/fifa18/players?page=1"
+  },
+  "connection": {
+      "original_public_ip": "173.73.119.14",
+      "is_need_mask_ip": "true"
+  },
+  "sites": [
+    {
+      "name": "futwiz",
+      "start_url": "https://www.futwiz.com/en/fifa18/players?page=1",
+      "base_url": "https://www.futwiz.com/"
+    },
+    {
+      "name": "futbin",
+      "start_url": "https://www.futbin.com/18/players?page=1",
+      "base_url": "https://www.futbin.com/"
+    }
+  ]
+}

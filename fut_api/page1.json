@@ -1,0 +1,4341 @@
+{
+  "items": [
+    {
+      "interceptions": 43,
+      "volleys": 93,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Low",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "dos Santos Aveiro",
+      "freekickaccuracy": 87,
+      "birthdate": "1985-02-05",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 95,
+      "ballcontrol": 99,
+      "marking": 33,
+      "height": 185,
+      "quality": "gold",
+      "weight": 80,
+      "gkhandling": 11,
+      "id": "67129665",
+      "aggression": 74,
+      "agility": 96,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 96,
+      "composure": 99,
+      "shortpassing": 95,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 94,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 50,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 94,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/38.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/38.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/38.png"
+        },
+        "abbrName": "Portugal",
+        "imgUrl": null,
+        "name": "Portugal",
+        "id": 38
+      },
+      "positionFull": "Left Wing",
+      "age": 33,
+      "traits": [
+        "Takes Powerful Driven Free Kicks",
+        "Flair",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 99,
+      "rating": 99,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/20801.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/20801.png"
+      },
+      "standingtackle": 46,
+      "gkdiving": 7,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+      "balance": 68,
+      "vision": 97,
+      "sprintspeed": 99,
+      "atkWorkRate": "High",
+      "baseId": 20801,
+      "penalties": 90,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 88,
+      "isSpecialType": false,
+      "position": "LW",
+      "longshots": 97,
+      "crossing": 97,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Cristiano Ronaldo",
+      "finishing": 99,
+      "commonName": "Cristiano Ronaldo",
+      "firstName": "C. Ronaldo",
+      "color": "toty",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 92,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE YEAR",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 34,
+      "isGK": false
+    },
+    {
+      "interceptions": 41,
+      "volleys": 93,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Low",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "dos Santos Aveiro",
+      "freekickaccuracy": 86,
+      "birthdate": "1985-02-05",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 96,
+      "ballcontrol": 99,
+      "marking": 31,
+      "height": 185,
+      "quality": "gold",
+      "weight": 80,
+      "gkhandling": 11,
+      "id": "151015745",
+      "aggression": 75,
+      "agility": 96,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 95,
+      "composure": 99,
+      "shortpassing": 94,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 47,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 94,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/38.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/38.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/38.png"
+        },
+        "abbrName": "Portugal",
+        "imgUrl": null,
+        "name": "Portugal",
+        "id": 38
+      },
+      "positionFull": "Striker",
+      "age": 33,
+      "traits": [
+        "Takes Powerful Driven Free Kicks",
+        "Flair",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 99,
+      "rating": 99,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/20801.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/20801.png"
+      },
+      "standingtackle": 44,
+      "gkdiving": 7,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+      "balance": 68,
+      "vision": 96,
+      "sprintspeed": 98,
+      "atkWorkRate": "High",
+      "baseId": 20801,
+      "penalties": 90,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 87,
+      "isSpecialType": false,
+      "position": "ST",
+      "longshots": 97,
+      "crossing": 96,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Cristiano Ronaldo",
+      "finishing": 99,
+      "commonName": "Cristiano Ronaldo",
+      "firstName": "C. Ronaldo",
+      "color": "tots_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 91,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE SEASON",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 32,
+      "isGK": false
+    },
+    {
+      "interceptions": 41,
+      "volleys": 93,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Low",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "dos Santos Aveiro",
+      "freekickaccuracy": 86,
+      "birthdate": "1985-02-05",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 96,
+      "ballcontrol": 99,
+      "marking": 31,
+      "height": 185,
+      "quality": "gold",
+      "weight": 80,
+      "gkhandling": 11,
+      "id": "167792961",
+      "aggression": 75,
+      "agility": 96,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 95,
+      "composure": 99,
+      "shortpassing": 94,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 47,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 94,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/38.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/38.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/38.png"
+        },
+        "abbrName": "Portugal",
+        "imgUrl": null,
+        "name": "Portugal",
+        "id": 38
+      },
+      "positionFull": "Striker",
+      "age": 33,
+      "traits": [
+        "Takes Powerful Driven Free Kicks",
+        "Flair",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 99,
+      "rating": 99,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/20801.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/20801.png"
+      },
+      "standingtackle": 44,
+      "gkdiving": 7,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+      "balance": 68,
+      "vision": 96,
+      "sprintspeed": 98,
+      "atkWorkRate": "High",
+      "baseId": 20801,
+      "penalties": 90,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 87,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 97,
+      "crossing": 96,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Cristiano Ronaldo",
+      "finishing": 99,
+      "commonName": "Cristiano Ronaldo",
+      "firstName": "C. Ronaldo",
+      "color": "fut_champions_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 91,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 32,
+      "isGK": false
+    },
+    {
+      "interceptions": 59,
+      "volleys": 96,
+      "squadPosition": null,
+      "gkreflexes": 37,
+      "defWorkRate": "Medium",
+      "gkkicking": 31,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l241.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l241.png"
+          }
+        },
+        "abbrName": "Barcelona",
+        "imgUrl": null,
+        "name": "FC Barcelona",
+        "id": 241
+      },
+      "lastName": "Su\u00e1rez",
+      "freekickaccuracy": 99,
+      "birthdate": "1987-01-24",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 94,
+      "ballcontrol": 99,
+      "marking": 43,
+      "height": 182,
+      "quality": "gold",
+      "weight": 86,
+      "gkhandling": 25,
+      "id": "201503172",
+      "aggression": 92,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 95,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 94,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 61,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 92,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/60.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/60.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/60.png"
+        },
+        "abbrName": "Uruguay",
+        "imgUrl": null,
+        "name": "Uruguay",
+        "id": 60
+      },
+      "positionFull": "Striker",
+      "age": 31,
+      "traits": [
+        "Tries To Beat Defensive Line",
+        "Technical Dribbler"
+      ],
+      "gkpositioning": 33,
+      "shotpower": 95,
+      "rating": 99,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/176580.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/176580.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/176580.png"
+      },
+      "standingtackle": 65,
+      "gkdiving": 27,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/176580.png",
+      "balance": 69,
+      "vision": 99,
+      "sprintspeed": 88,
+      "atkWorkRate": "High",
+      "baseId": 176580,
+      "penalties": 93,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 81,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 78,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 94,
+      "crossing": 94,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Su\u00e1rez",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Luis",
+      "color": "rtr_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 99,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 55,
+      "isGK": false
+    },
+    {
+      "interceptions": 58,
+      "volleys": 95,
+      "squadPosition": null,
+      "gkreflexes": 8,
+      "defWorkRate": "Medium",
+      "gkkicking": 6,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l5.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l5.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l5.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l5.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l5.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l5.png"
+          }
+        },
+        "abbrName": "Chelsea",
+        "imgUrl": null,
+        "name": "Chelsea",
+        "id": 5
+      },
+      "lastName": "Hazard",
+      "freekickaccuracy": 93,
+      "birthdate": "1991-01-07",
+      "specialities": [
+        "Speedster",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 90,
+      "ballcontrol": 98,
+      "marking": 35,
+      "height": 173,
+      "quality": "gold",
+      "weight": 76,
+      "gkhandling": 12,
+      "id": "235064301",
+      "aggression": 75,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 93,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 46,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 91,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/7.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/7.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/7.png"
+        },
+        "abbrName": "Belgium",
+        "imgUrl": null,
+        "name": "Belgium",
+        "id": 7
+      },
+      "positionFull": "Left Forward",
+      "age": 27,
+      "traits": [
+        "Shooting - Finesse Shot",
+        "Flair",
+        "Playmaker",
+        "Technical Dribbler"
+      ],
+      "gkpositioning": 8,
+      "shotpower": 95,
+      "rating": 99,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/183277.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/183277.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/183277.png"
+      },
+      "standingtackle": 38,
+      "gkdiving": 11,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/183277.png",
+      "balance": 97,
+      "vision": 99,
+      "sprintspeed": 94,
+      "atkWorkRate": "High",
+      "baseId": 183277,
+      "penalties": 99,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 82,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 95,
+      "isSpecialType": true,
+      "position": "LF",
+      "longshots": 99,
+      "crossing": 94,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Hazard",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Eden",
+      "color": "rtr_gold",
+      "reactions": 91,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 96,
+      "headingaccuracy": 81,
+      "league": {
+        "id": 13,
+        "abbrName": "ENG 1",
+        "imgUrl": null,
+        "name": "Premier League"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 31,
+      "isGK": false
+    },
+    {
+      "interceptions": 67,
+      "volleys": 95,
+      "squadPosition": null,
+      "gkreflexes": 7,
+      "defWorkRate": "Medium",
+      "gkkicking": 11,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l112658.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l112658.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l112658.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l112658.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l112658.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l112658.png"
+          }
+        },
+        "abbrName": "Icons",
+        "imgUrl": null,
+        "name": "Icons",
+        "id": 112658
+      },
+      "lastName": "Arantes Nascimento",
+      "freekickaccuracy": 89,
+      "birthdate": "1940-10-23",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Play Maker",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Midfielder",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 76,
+      "ballcontrol": 97,
+      "marking": 55,
+      "height": 173,
+      "quality": "gold",
+      "weight": 70,
+      "gkhandling": 6,
+      "id": "237067",
+      "aggression": 59,
+      "agility": 94,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 95,
+      "composure": 98,
+      "shortpassing": 96,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 60,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 76,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 98,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/54.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/54.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/54.png"
+        },
+        "abbrName": "Brazil",
+        "imgUrl": null,
+        "name": "Brazil",
+        "id": 54
+      },
+      "positionFull": "Centre Attacking Midfielder",
+      "age": 77,
+      "traits": [
+        "Leadership",
+        "Shooting - Finesse Shot",
+        "Playmaker",
+        "Technical Dribbler"
+      ],
+      "gkpositioning": 8,
+      "shotpower": 94,
+      "rating": 98,
+      "positioning": 97,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/237067.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/237067.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/237067.png"
+      },
+      "standingtackle": 53,
+      "gkdiving": 13,
+      "iconAttributes": {
+        "clubTeamStats": [
+          {
+            "goals": 589,
+            "appearances": 605,
+            "clubId": 1053,
+            "clubName": "Santos",
+            "years": 18
+          },
+          {
+            "goals": 31,
+            "appearances": 56,
+            "clubId": 112548,
+            "clubName": "New York Cosmos",
+            "years": 2
+          }
+        ],
+        "nationalTeamStats": [
+          {
+            "goals": 95,
+            "appearances": 110,
+            "clubId": 1370,
+            "clubName": "Brazil",
+            "years": 14
+          }
+        ],
+        "iconText": "A 28-year-old Pel\u00e9 helped Santos to secure a third consecutive Campeonato Paulista in 1969. Just 5 months later Pel\u00e9 scored a penalty that became popularly known as O Mil\u00e9simo \u2013 his 1,000th goal in all competitions \u2013 to mark a monumental personal milestone. The following summer Pel\u00e9 was a key member of the Brazil side that went on to win the 1970 FIFA World Cup\u2122 with a perfect record of 6 wins, scoring 4 goals; including the opening goal in a 4-1 win over Italy in the final."
+      },
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/237067.png",
+      "balance": 93,
+      "vision": 97,
+      "sprintspeed": 95,
+      "atkWorkRate": "High",
+      "baseId": 237067,
+      "penalties": 93,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 88,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 88,
+      "isSpecialType": true,
+      "position": "CAM",
+      "longshots": 94,
+      "crossing": 90,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Pel\u00e9",
+      "finishing": 98,
+      "commonName": "Pel\u00e9",
+      "firstName": "Edson",
+      "color": "legend",
+      "reactions": 98,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 89,
+      "headingaccuracy": 94,
+      "league": {
+        "id": 2118,
+        "abbrName": "ICN",
+        "imgUrl": null,
+        "name": "Icons"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "Icon",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 86,
+      "dribbling": 96,
+      "slidingtackle": 49,
+      "isGK": false
+    },
+    {
+      "interceptions": 28,
+      "volleys": 17,
+      "squadPosition": null,
+      "gkreflexes": 96,
+      "defWorkRate": "Medium",
+      "gkkicking": 92,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l45.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l45.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l45.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l45.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l45.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l45.png"
+          }
+        },
+        "abbrName": "Juventus",
+        "imgUrl": null,
+        "name": "Juventus",
+        "id": 45
+      },
+      "lastName": "Buffon",
+      "freekickaccuracy": 13,
+      "birthdate": "1978-01-28",
+      "specialities": null,
+      "strength": 69,
+      "ballcontrol": 28,
+      "marking": 10,
+      "height": 191,
+      "quality": "gold",
+      "weight": 94,
+      "gkhandling": 96,
+      "id": "83887259",
+      "aggression": 38,
+      "agility": 55,
+      "contracts": null,
+      "skillMoves": 1,
+      "acceleration": 74,
+      "composure": 70,
+      "shortpassing": 37,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DIV"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.HAN"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.KIC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.REF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 74,
+          "name": "fut.attribute.SPD"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.POS"
+        }
+      ],
+      "potential": 89,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/27.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/27.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/27.png"
+        },
+        "abbrName": "Italy",
+        "imgUrl": null,
+        "name": "Italy",
+        "id": 27
+      },
+      "positionFull": "Goalkeeper",
+      "age": 40,
+      "traits": [
+        "Leadership",
+        "Ultimate Professional"
+      ],
+      "gkpositioning": 99,
+      "shotpower": 39,
+      "rating": 98,
+      "positioning": 12,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/1179.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/1179.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/1179.png"
+      },
+      "standingtackle": 11,
+      "gkdiving": 98,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/1179.png",
+      "balance": 49,
+      "vision": 50,
+      "sprintspeed": 64,
+      "atkWorkRate": "Medium",
+      "baseId": 1179,
+      "penalties": 22,
+      "isLoan": null,
+      "weakFoot": 2,
+      "jumping": 75,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 35,
+      "isSpecialType": true,
+      "position": "GK",
+      "longshots": 13,
+      "crossing": 13,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Buffon",
+      "finishing": 15,
+      "commonName": "",
+      "firstName": "Gianluigi",
+      "color": "sbc_premium",
+      "reactions": 80,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 20,
+      "headingaccuracy": 13,
+      "league": {
+        "id": 31,
+        "abbrName": "ITA 1",
+        "imgUrl": null,
+        "name": "Calcio A"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 39,
+      "dribbling": 26,
+      "slidingtackle": 11,
+      "isGK": true
+    },
+    {
+      "interceptions": 38,
+      "volleys": 91,
+      "squadPosition": null,
+      "gkreflexes": 8,
+      "defWorkRate": "Medium",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l241.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l241.png"
+          }
+        },
+        "abbrName": "Barcelona",
+        "imgUrl": null,
+        "name": "FC Barcelona",
+        "id": 241
+      },
+      "lastName": "Messi",
+      "freekickaccuracy": 99,
+      "birthdate": "1987-06-24",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 78,
+      "ballcontrol": 98,
+      "marking": 22,
+      "height": 170,
+      "quality": "gold",
+      "weight": 72,
+      "gkhandling": 11,
+      "id": "117598535",
+      "aggression": 63,
+      "agility": 93,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 99,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 45,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 81,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 93,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/52.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/52.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/52.png"
+        },
+        "abbrName": "Argentina",
+        "imgUrl": null,
+        "name": "Argentina",
+        "id": 52
+      },
+      "positionFull": "Right Wing",
+      "age": 31,
+      "traits": [
+        "Shooting - Finesse Shot",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler",
+        "Playmaker",
+        "One Club Player",
+        "Shooting - Chip Shot"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 91,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/158023.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/158023.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/158023.png"
+      },
+      "standingtackle": 48,
+      "gkdiving": 6,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/158023.png",
+      "balance": 98,
+      "vision": 99,
+      "sprintspeed": 93,
+      "atkWorkRate": "Medium",
+      "baseId": 158023,
+      "penalties": 79,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 90,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 99,
+      "isSpecialType": false,
+      "position": "RW",
+      "longshots": 94,
+      "crossing": 87,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Messi",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Lionel",
+      "color": "toty",
+      "reactions": 98,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 99,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE YEAR",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 96,
+      "dribbling": 99,
+      "slidingtackle": 45,
+      "isGK": false
+    },
+    {
+      "interceptions": 36,
+      "volleys": 91,
+      "squadPosition": null,
+      "gkreflexes": 8,
+      "defWorkRate": "Medium",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l241.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l241.png"
+          }
+        },
+        "abbrName": "Barcelona",
+        "imgUrl": null,
+        "name": "FC Barcelona",
+        "id": 241
+      },
+      "lastName": "Messi",
+      "freekickaccuracy": 99,
+      "birthdate": "1987-06-24",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 79,
+      "ballcontrol": 98,
+      "marking": 21,
+      "height": 170,
+      "quality": "gold",
+      "weight": 72,
+      "gkhandling": 11,
+      "id": "151152967",
+      "aggression": 64,
+      "agility": 92,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 99,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 43,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 82,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 93,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/52.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/52.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/52.png"
+        },
+        "abbrName": "Argentina",
+        "imgUrl": null,
+        "name": "Argentina",
+        "id": 52
+      },
+      "positionFull": "Striker",
+      "age": 31,
+      "traits": [
+        "Shooting - Finesse Shot",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler",
+        "Playmaker",
+        "One Club Player",
+        "Shooting - Chip Shot"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 91,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/158023.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/158023.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/158023.png"
+      },
+      "standingtackle": 46,
+      "gkdiving": 6,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/158023.png",
+      "balance": 98,
+      "vision": 99,
+      "sprintspeed": 94,
+      "atkWorkRate": "Medium",
+      "baseId": 158023,
+      "penalties": 79,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 91,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 98,
+      "isSpecialType": false,
+      "position": "ST",
+      "longshots": 94,
+      "crossing": 86,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Messi",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Lionel",
+      "color": "tots_gold",
+      "reactions": 98,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 99,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE SEASON",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 98,
+      "dribbling": 99,
+      "slidingtackle": 43,
+      "isGK": false
+    },
+    {
+      "interceptions": 36,
+      "volleys": 91,
+      "squadPosition": null,
+      "gkreflexes": 8,
+      "defWorkRate": "Medium",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l241.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l241.png"
+          }
+        },
+        "abbrName": "Barcelona",
+        "imgUrl": null,
+        "name": "FC Barcelona",
+        "id": 241
+      },
+      "lastName": "Messi",
+      "freekickaccuracy": 99,
+      "birthdate": "1987-06-24",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 79,
+      "ballcontrol": 98,
+      "marking": 21,
+      "height": 170,
+      "quality": "gold",
+      "weight": 72,
+      "gkhandling": 11,
+      "id": "167930183",
+      "aggression": 64,
+      "agility": 92,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 99,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 43,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 82,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 93,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/52.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/52.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/52.png"
+        },
+        "abbrName": "Argentina",
+        "imgUrl": null,
+        "name": "Argentina",
+        "id": 52
+      },
+      "positionFull": "Striker",
+      "age": 31,
+      "traits": [
+        "Shooting - Finesse Shot",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler",
+        "Playmaker",
+        "One Club Player",
+        "Shooting - Chip Shot"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 91,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/158023.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/158023.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/158023.png"
+      },
+      "standingtackle": 46,
+      "gkdiving": 6,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/158023.png",
+      "balance": 98,
+      "vision": 99,
+      "sprintspeed": 94,
+      "atkWorkRate": "Medium",
+      "baseId": 158023,
+      "penalties": 79,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 91,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 98,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 94,
+      "crossing": 86,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Messi",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Lionel",
+      "color": "fut_champions_gold",
+      "reactions": 98,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 99,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 98,
+      "dribbling": 99,
+      "slidingtackle": 43,
+      "isGK": false
+    },
+    {
+      "interceptions": 36,
+      "volleys": 92,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Low",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "dos Santos Aveiro",
+      "freekickaccuracy": 84,
+      "birthdate": "1985-02-05",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 91,
+      "ballcontrol": 99,
+      "marking": 27,
+      "height": 185,
+      "quality": "gold",
+      "weight": 80,
+      "gkhandling": 11,
+      "id": "184570177",
+      "aggression": 71,
+      "agility": 94,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 93,
+      "composure": 99,
+      "shortpassing": 92,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 91,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 41,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 91,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 94,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/38.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/38.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/38.png"
+        },
+        "abbrName": "Portugal",
+        "imgUrl": null,
+        "name": "Portugal",
+        "id": 38
+      },
+      "positionFull": "Striker",
+      "age": 33,
+      "traits": [
+        "Takes Powerful Driven Free Kicks",
+        "Flair",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 99,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/20801.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/20801.png"
+      },
+      "standingtackle": 38,
+      "gkdiving": 7,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+      "balance": 67,
+      "vision": 94,
+      "sprintspeed": 96,
+      "atkWorkRate": "High",
+      "baseId": 20801,
+      "penalties": 89,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 85,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 96,
+      "crossing": 94,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Cristiano Ronaldo",
+      "finishing": 99,
+      "commonName": "Cristiano Ronaldo",
+      "firstName": "C. Ronaldo",
+      "color": "rtr_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 89,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 97,
+      "slidingtackle": 28,
+      "isGK": false
+    },
+    {
+      "interceptions": 56,
+      "volleys": 96,
+      "squadPosition": null,
+      "gkreflexes": 37,
+      "defWorkRate": "Medium",
+      "gkkicking": 31,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l241.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l241.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l241.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l241.png"
+          }
+        },
+        "abbrName": "Barcelona",
+        "imgUrl": null,
+        "name": "FC Barcelona",
+        "id": 241
+      },
+      "lastName": "Su\u00e1rez",
+      "freekickaccuracy": 99,
+      "birthdate": "1987-01-24",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 91,
+      "ballcontrol": 99,
+      "marking": 41,
+      "height": 182,
+      "quality": "gold",
+      "weight": 86,
+      "gkhandling": 25,
+      "id": "184725956",
+      "aggression": 89,
+      "agility": 97,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 97,
+      "composure": 93,
+      "shortpassing": 98,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 91,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 94,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 58,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 92,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/60.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/60.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/60.png"
+        },
+        "abbrName": "Uruguay",
+        "imgUrl": null,
+        "name": "Uruguay",
+        "id": 60
+      },
+      "positionFull": "Striker",
+      "age": 31,
+      "traits": [
+        "Tries To Beat Defensive Line",
+        "Technical Dribbler"
+      ],
+      "gkpositioning": 33,
+      "shotpower": 95,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/176580.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/176580.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/176580.png"
+      },
+      "standingtackle": 62,
+      "gkdiving": 27,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/176580.png",
+      "balance": 67,
+      "vision": 99,
+      "sprintspeed": 85,
+      "atkWorkRate": "High",
+      "baseId": 176580,
+      "penalties": 93,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 79,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 76,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 94,
+      "crossing": 91,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Su\u00e1rez",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Luis",
+      "color": "rtr_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 99,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 97,
+      "slidingtackle": 52,
+      "isGK": false
+    },
+    {
+      "interceptions": 69,
+      "volleys": 99,
+      "squadPosition": null,
+      "gkreflexes": 10,
+      "defWorkRate": "High",
+      "gkkicking": 13,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l73.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l73.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l73.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l73.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l73.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l73.png"
+          }
+        },
+        "abbrName": "Paris",
+        "imgUrl": null,
+        "name": "Paris Saint-Germain",
+        "id": 73
+      },
+      "lastName": "Cavani",
+      "freekickaccuracy": 97,
+      "birthdate": "1987-02-14",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 89,
+      "ballcontrol": 98,
+      "marking": 34,
+      "height": 184,
+      "quality": "gold",
+      "weight": 71,
+      "gkhandling": 5,
+      "id": "201506405",
+      "aggression": 99,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 3,
+      "acceleration": 90,
+      "composure": 99,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 61,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 87,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/60.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/60.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/60.png"
+        },
+        "abbrName": "Uruguay",
+        "imgUrl": null,
+        "name": "Uruguay",
+        "id": 60
+      },
+      "positionFull": "Striker",
+      "age": 31,
+      "traits": [
+        "Tries To Beat Defensive Line",
+        "Power Header"
+      ],
+      "gkpositioning": 13,
+      "shotpower": 99,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/179813.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/179813.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/179813.png"
+      },
+      "standingtackle": 65,
+      "gkdiving": 12,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/179813.png",
+      "balance": 72,
+      "vision": 99,
+      "sprintspeed": 94,
+      "atkWorkRate": "High",
+      "baseId": 179813,
+      "penalties": 99,
+      "isLoan": null,
+      "weakFoot": 3,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 65,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 93,
+      "crossing": 92,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Cavani",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Edinson",
+      "color": "rtr_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 98,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 16,
+        "abbrName": "FRA 1",
+        "imgUrl": null,
+        "name": "Ligue 1 Conforama"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 98,
+      "slidingtackle": 39,
+      "isGK": false
+    },
+    {
+      "interceptions": 55,
+      "volleys": 97,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Medium",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l73.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l73.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l73.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l73.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l73.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l73.png"
+          }
+        },
+        "abbrName": "Paris",
+        "imgUrl": null,
+        "name": "Paris Saint-Germain",
+        "id": 73
+      },
+      "lastName": "da Silva Santos Jr.",
+      "freekickaccuracy": 99,
+      "birthdate": "1992-02-05",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 75,
+      "ballcontrol": 99,
+      "marking": 32,
+      "height": 175,
+      "quality": "gold",
+      "weight": 68,
+      "gkhandling": 9,
+      "id": "201517463",
+      "aggression": 79,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 99,
+      "composure": 96,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 46,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 85,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 94,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/54.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/54.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/54.png"
+        },
+        "abbrName": "Brazil",
+        "imgUrl": null,
+        "name": "Brazil",
+        "id": 54
+      },
+      "positionFull": "Left Wing",
+      "age": 26,
+      "traits": [
+        "Flair",
+        "Dribbler - Speed Dribbler",
+        "Technical Dribbler",
+        "Takes Finesse Style Free Kicks"
+      ],
+      "gkpositioning": 15,
+      "shotpower": 94,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/190871.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/190871.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/190871.png"
+      },
+      "standingtackle": 36,
+      "gkdiving": 9,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/190871.png",
+      "balance": 86,
+      "vision": 99,
+      "sprintspeed": 95,
+      "atkWorkRate": "High",
+      "baseId": 190871,
+      "penalties": 95,
+      "isLoan": null,
+      "weakFoot": 5,
+      "jumping": 86,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 93,
+      "isSpecialType": true,
+      "position": "LW",
+      "longshots": 90,
+      "crossing": 93,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Neymar",
+      "finishing": 99,
+      "commonName": "Neymar",
+      "firstName": "Neymar",
+      "color": "rtr_gold",
+      "reactions": 92,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 99,
+      "headingaccuracy": 95,
+      "league": {
+        "id": 16,
+        "abbrName": "FRA 1",
+        "imgUrl": null,
+        "name": "Ligue 1 Conforama"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 50,
+      "isGK": false
+    },
+    {
+      "interceptions": 53,
+      "volleys": 93,
+      "squadPosition": null,
+      "gkreflexes": 8,
+      "defWorkRate": "Medium",
+      "gkkicking": 6,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l5.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l5.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l5.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l5.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l5.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l5.png"
+          }
+        },
+        "abbrName": "Chelsea",
+        "imgUrl": null,
+        "name": "Chelsea",
+        "id": 5
+      },
+      "lastName": "Hazard",
+      "freekickaccuracy": 92,
+      "birthdate": "1991-01-07",
+      "specialities": [
+        "Speedster",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward"
+      ],
+      "strength": 86,
+      "ballcontrol": 98,
+      "marking": 32,
+      "height": 173,
+      "quality": "gold",
+      "weight": 76,
+      "gkhandling": 12,
+      "id": "218287085",
+      "aggression": 72,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 93,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 42,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 88,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 91,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/7.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/7.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/7.png"
+        },
+        "abbrName": "Belgium",
+        "imgUrl": null,
+        "name": "Belgium",
+        "id": 7
+      },
+      "positionFull": "Left Forward",
+      "age": 27,
+      "traits": [
+        "Shooting - Finesse Shot",
+        "Flair",
+        "Playmaker",
+        "Technical Dribbler"
+      ],
+      "gkpositioning": 8,
+      "shotpower": 93,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/183277.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/183277.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/183277.png"
+      },
+      "standingtackle": 35,
+      "gkdiving": 11,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/183277.png",
+      "balance": 97,
+      "vision": 99,
+      "sprintspeed": 93,
+      "atkWorkRate": "High",
+      "baseId": 183277,
+      "penalties": 99,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 78,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 94,
+      "isSpecialType": true,
+      "position": "LF",
+      "longshots": 97,
+      "crossing": 93,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Hazard",
+      "finishing": 98,
+      "commonName": "",
+      "firstName": "Eden",
+      "color": "rtr_gold",
+      "reactions": 91,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 95,
+      "headingaccuracy": 74,
+      "league": {
+        "id": 13,
+        "abbrName": "ENG 1",
+        "imgUrl": null,
+        "name": "Premier League"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 28,
+      "isGK": false
+    },
+    {
+      "interceptions": 58,
+      "volleys": 99,
+      "squadPosition": null,
+      "gkreflexes": 14,
+      "defWorkRate": "Medium",
+      "gkkicking": 14,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l240.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l240.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l240.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l240.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l240.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l240.png"
+          }
+        },
+        "abbrName": "Atl\u00e9tico",
+        "imgUrl": null,
+        "name": "Atl\u00e9tico Madrid",
+        "id": 240
+      },
+      "lastName": "Griezmann",
+      "freekickaccuracy": 93,
+      "birthdate": "1991-03-21",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 78,
+      "ballcontrol": 97,
+      "marking": 38,
+      "height": 174,
+      "quality": "gold",
+      "weight": 72,
+      "gkhandling": 8,
+      "id": "218298573",
+      "aggression": 89,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 98,
+      "composure": 97,
+      "shortpassing": 98,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 50,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 88,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 91,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/18.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/18.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/18.png"
+        },
+        "abbrName": "France",
+        "imgUrl": null,
+        "name": "France",
+        "id": 18
+      },
+      "positionFull": "Centre Forward",
+      "age": 27,
+      "traits": [
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 13,
+      "shotpower": 93,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/194765.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/194765.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/194765.png"
+      },
+      "standingtackle": 36,
+      "gkdiving": 14,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/194765.png",
+      "balance": 91,
+      "vision": 94,
+      "sprintspeed": 97,
+      "atkWorkRate": "High",
+      "baseId": 194765,
+      "penalties": 81,
+      "isLoan": null,
+      "weakFoot": 3,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 93,
+      "isSpecialType": true,
+      "position": "CF",
+      "longshots": 94,
+      "crossing": 99,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Griezmann",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Antoine",
+      "color": "rtr_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 99,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 98,
+      "dribbling": 99,
+      "slidingtackle": 18,
+      "isGK": false
+    },
+    {
+      "interceptions": 79,
+      "volleys": 95,
+      "squadPosition": null,
+      "gkreflexes": 14,
+      "defWorkRate": "Medium",
+      "gkkicking": 9,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l9.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l9.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l9.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l9.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l9.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l9.png"
+          }
+        },
+        "abbrName": "Liverpool",
+        "imgUrl": null,
+        "name": "Liverpool",
+        "id": 9
+      },
+      "lastName": "Salah",
+      "freekickaccuracy": 77,
+      "birthdate": "1992-06-15",
+      "specialities": [
+        "Speedster",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 85,
+      "ballcontrol": 99,
+      "marking": 53,
+      "height": 175,
+      "quality": "gold",
+      "weight": 71,
+      "gkhandling": 14,
+      "id": "251867571",
+      "aggression": 87,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 86,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 65,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 86,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/111.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/111.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/111.png"
+        },
+        "abbrName": "Egypt",
+        "imgUrl": null,
+        "name": "Egypt",
+        "id": 111
+      },
+      "positionFull": "Right Wing",
+      "age": 26,
+      "traits": [
+        "Tries To Beat Defensive Line",
+        "Shooting - Finesse Shot",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 11,
+      "shotpower": 95,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/209331.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/209331.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/209331.png"
+      },
+      "standingtackle": 62,
+      "gkdiving": 14,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/209331.png",
+      "balance": 96,
+      "vision": 99,
+      "sprintspeed": 99,
+      "atkWorkRate": "High",
+      "baseId": 209331,
+      "penalties": 81,
+      "isLoan": null,
+      "weakFoot": 2,
+      "jumping": 97,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 83,
+      "isSpecialType": true,
+      "position": "RW",
+      "longshots": 83,
+      "crossing": 93,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Salah",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Mohamed",
+      "color": "award_winner",
+      "reactions": 94,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 89,
+      "headingaccuracy": 85,
+      "league": {
+        "id": 13,
+        "abbrName": "ENG 1",
+        "imgUrl": null,
+        "name": "Premier League"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 59,
+      "isGK": false
+    },
+    {
+      "interceptions": 79,
+      "volleys": 95,
+      "squadPosition": null,
+      "gkreflexes": 14,
+      "defWorkRate": "Medium",
+      "gkkicking": 9,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l9.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l9.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l9.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l9.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l9.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l9.png"
+          }
+        },
+        "abbrName": "Liverpool",
+        "imgUrl": null,
+        "name": "Liverpool",
+        "id": 9
+      },
+      "lastName": "Salah",
+      "freekickaccuracy": 77,
+      "birthdate": "1992-06-15",
+      "specialities": [
+        "Speedster",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 85,
+      "ballcontrol": 99,
+      "marking": 53,
+      "height": 175,
+      "quality": "gold",
+      "weight": 71,
+      "gkhandling": 14,
+      "id": "268644787",
+      "aggression": 87,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 86,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 65,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 86,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/111.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/111.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/111.png"
+        },
+        "abbrName": "Egypt",
+        "imgUrl": null,
+        "name": "Egypt",
+        "id": 111
+      },
+      "positionFull": "Right Wing",
+      "age": 26,
+      "traits": [
+        "Tries To Beat Defensive Line",
+        "Shooting - Finesse Shot",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 11,
+      "shotpower": 95,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/209331.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/209331.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/209331.png"
+      },
+      "standingtackle": 62,
+      "gkdiving": 14,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/209331.png",
+      "balance": 96,
+      "vision": 99,
+      "sprintspeed": 99,
+      "atkWorkRate": "High",
+      "baseId": 209331,
+      "penalties": 81,
+      "isLoan": null,
+      "weakFoot": 2,
+      "jumping": 97,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 83,
+      "isSpecialType": false,
+      "position": "RW",
+      "longshots": 83,
+      "crossing": 93,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Salah",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Mohamed",
+      "color": "tots_gold",
+      "reactions": 94,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 89,
+      "headingaccuracy": 85,
+      "league": {
+        "id": 13,
+        "abbrName": "ENG 1",
+        "imgUrl": null,
+        "name": "Premier League"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE SEASON",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 59,
+      "isGK": false
+    },
+    {
+      "interceptions": 79,
+      "volleys": 95,
+      "squadPosition": null,
+      "gkreflexes": 14,
+      "defWorkRate": "Medium",
+      "gkkicking": 9,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l9.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l9.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l9.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l9.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l9.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l9.png"
+          }
+        },
+        "abbrName": "Liverpool",
+        "imgUrl": null,
+        "name": "Liverpool",
+        "id": 9
+      },
+      "lastName": "Salah",
+      "freekickaccuracy": 77,
+      "birthdate": "1992-06-15",
+      "specialities": [
+        "Speedster",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 85,
+      "ballcontrol": 99,
+      "marking": 53,
+      "height": 175,
+      "quality": "gold",
+      "weight": 71,
+      "gkhandling": 14,
+      "id": "302199219",
+      "aggression": 87,
+      "agility": 99,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 99,
+      "composure": 86,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 65,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 86,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/111.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/111.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/111.png"
+        },
+        "abbrName": "Egypt",
+        "imgUrl": null,
+        "name": "Egypt",
+        "id": 111
+      },
+      "positionFull": "Right Wing",
+      "age": 26,
+      "traits": [
+        "Tries To Beat Defensive Line",
+        "Shooting - Finesse Shot",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 11,
+      "shotpower": 95,
+      "rating": 98,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/209331.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/209331.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/209331.png"
+      },
+      "standingtackle": 62,
+      "gkdiving": 14,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/209331.png",
+      "balance": 96,
+      "vision": 99,
+      "sprintspeed": 99,
+      "atkWorkRate": "High",
+      "baseId": 209331,
+      "penalties": 81,
+      "isLoan": null,
+      "weakFoot": 2,
+      "jumping": 97,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 83,
+      "isSpecialType": true,
+      "position": "RW",
+      "longshots": 83,
+      "crossing": 93,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Salah",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Mohamed",
+      "color": "fut_champions_gold",
+      "reactions": 94,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 89,
+      "headingaccuracy": 85,
+      "league": {
+        "id": 13,
+        "abbrName": "ENG 1",
+        "imgUrl": null,
+        "name": "Premier League"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 99,
+      "dribbling": 99,
+      "slidingtackle": 59,
+      "isGK": false
+    },
+    {
+      "interceptions": 44,
+      "volleys": 88,
+      "squadPosition": null,
+      "gkreflexes": 15,
+      "defWorkRate": "Medium",
+      "gkkicking": 8,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l112658.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l112658.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l112658.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l112658.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l112658.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l112658.png"
+          }
+        },
+        "abbrName": "Icons",
+        "imgUrl": null,
+        "name": "Icons",
+        "id": 112658
+      },
+      "lastName": "Maradona",
+      "freekickaccuracy": 96,
+      "birthdate": "1960-10-30",
+      "specialities": [
+        "Speedster",
+        "Dribbler",
+        "Play Maker",
+        "Distance Shooter",
+        "Crosser",
+        "FK Specialist",
+        "Acrobat",
+        "Clinical Finisher",
+        "Midfielder",
+        "Complete Forward"
+      ],
+      "strength": 75,
+      "ballcontrol": 97,
+      "marking": 27,
+      "height": 165,
+      "quality": "gold",
+      "weight": 70,
+      "gkhandling": 9,
+      "id": "190042",
+      "aggression": 76,
+      "agility": 91,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 94,
+      "composure": 95,
+      "shortpassing": 93,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 92,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 40,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 76,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 97,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/52.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/52.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/52.png"
+        },
+        "abbrName": "Argentina",
+        "imgUrl": null,
+        "name": "Argentina",
+        "id": 52
+      },
+      "positionFull": "Centre Attacking Midfielder",
+      "age": 57,
+      "traits": [
+        "Avoids Using Weaker Foot",
+        "Shooting - Finesse Shot",
+        "Flair",
+        "Playmaker",
+        "Shooting - Chip Shot",
+        "Technical Dribbler",
+        "Takes Finesse Style Free Kicks"
+      ],
+      "gkpositioning": 6,
+      "shotpower": 85,
+      "rating": 97,
+      "positioning": 92,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/190042.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/190042.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/190042.png"
+      },
+      "standingtackle": 42,
+      "gkdiving": 13,
+      "iconAttributes": {
+        "clubTeamStats": [
+          {
+            "goals": 116,
+            "appearances": 166,
+            "clubId": 111019,
+            "clubName": "Argentinos Juniors",
+            "years": 5
+          },
+          {
+            "goals": 28,
+            "appearances": 40,
+            "clubId": 1877,
+            "clubName": "Boca Juniors",
+            "years": 1
+          },
+          {
+            "goals": 38,
+            "appearances": 58,
+            "clubId": 241,
+            "clubName": "Barcelona",
+            "years": 2
+          },
+          {
+            "goals": 115,
+            "appearances": 259,
+            "clubId": 48,
+            "clubName": "Napoli",
+            "years": 8
+          },
+          {
+            "goals": 8,
+            "appearances": 29,
+            "clubId": 481,
+            "clubName": "Sevilla",
+            "years": 1
+          },
+          {
+            "goals": 0,
+            "appearances": 5,
+            "clubId": 110396,
+            "clubName": "Newell's Old Boys",
+            "years": 1
+          },
+          {
+            "goals": 7,
+            "appearances": 31,
+            "clubId": 1877,
+            "clubName": "Boca Juniors",
+            "years": 2
+          }
+        ],
+        "nationalTeamStats": [
+          {
+            "goals": 34,
+            "appearances": 91,
+            "clubId": 1369,
+            "clubName": "Argentina",
+            "years": 17
+          }
+        ],
+        "iconText": "Despite missing games through injuries, Maradona managed 38 goals in 58 games at Barcelona and helped them to 3 domestic trophies in 1983. The highlight for Maradona during the mid-80s however was captaining Argentina to FIFA World Cup\u2122 glory in 1986. Maradona played every minute of the tournament, scored arguably the goal of the century, and ended with five goals and five assists \u2013 the last assist coming in the final against West Germany to win Argentina the match, and the tournament."
+      },
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/190042.png",
+      "balance": 98,
+      "vision": 95,
+      "sprintspeed": 90,
+      "atkWorkRate": "High",
+      "baseId": 190042,
+      "penalties": 94,
+      "isLoan": null,
+      "weakFoot": 3,
+      "jumping": 82,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 89,
+      "isSpecialType": true,
+      "position": "CAM",
+      "longshots": 94,
+      "crossing": 88,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Maradona",
+      "finishing": 97,
+      "commonName": "",
+      "firstName": "Diego",
+      "color": "legend",
+      "reactions": 94,
+      "playStyleId": null,
+      "foot": "Left",
+      "curve": 96,
+      "headingaccuracy": 67,
+      "league": {
+        "id": 2118,
+        "abbrName": "ICN",
+        "imgUrl": null,
+        "name": "Icons"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "Icon",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 78,
+      "dribbling": 98,
+      "slidingtackle": 37,
+      "isGK": false
+    },
+    {
+      "interceptions": 97,
+      "volleys": 82,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Medium",
+      "gkkicking": 9,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "Ramos Garc\u00eda",
+      "freekickaccuracy": 83,
+      "birthdate": "1986-03-30",
+      "specialities": [
+        "Aerial Threat",
+        "Tackler",
+        "Tactician",
+        "Acrobat",
+        "Strength",
+        "Complete Defender"
+      ],
+      "strength": 93,
+      "ballcontrol": 99,
+      "marking": 95,
+      "height": 183,
+      "quality": "gold",
+      "weight": 75,
+      "gkhandling": 8,
+      "id": "50487510",
+      "aggression": 97,
+      "agility": 97,
+      "contracts": null,
+      "skillMoves": 3,
+      "acceleration": 84,
+      "composure": 98,
+      "shortpassing": 96,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 86,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 79,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 88,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 89,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 98,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 96,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 90,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/45.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/45.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/45.png"
+        },
+        "abbrName": "Spain",
+        "imgUrl": null,
+        "name": "Spain",
+        "id": 45
+      },
+      "positionFull": "Centre Back",
+      "age": 32,
+      "traits": [
+        "Dives Into Tackles",
+        "Leadership",
+        "Power Header"
+      ],
+      "gkpositioning": 7,
+      "shotpower": 99,
+      "rating": 97,
+      "positioning": 65,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/155862.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/155862.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/155862.png"
+      },
+      "standingtackle": 99,
+      "gkdiving": 11,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/155862.png",
+      "balance": 74,
+      "vision": 78,
+      "sprintspeed": 87,
+      "atkWorkRate": "High",
+      "baseId": 155862,
+      "penalties": 85,
+      "isLoan": null,
+      "weakFoot": 3,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 89,
+      "isSpecialType": false,
+      "position": "CB",
+      "longshots": 68,
+      "crossing": 81,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Sergio Ramos",
+      "finishing": 75,
+      "commonName": "Sergio Ramos",
+      "firstName": "Sergio",
+      "color": "toty",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 90,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE YEAR",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 97,
+      "dribbling": 75,
+      "slidingtackle": 99,
+      "isGK": false
+    },
+    {
+      "interceptions": 90,
+      "volleys": 74,
+      "squadPosition": null,
+      "gkreflexes": 6,
+      "defWorkRate": "Medium",
+      "gkkicking": 12,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "Alarc\u00f3n Su\u00e1rez",
+      "freekickaccuracy": 87,
+      "birthdate": "1992-04-21",
+      "specialities": [
+        "Dribbler",
+        "Play Maker",
+        "Distance Shooter",
+        "FK Specialist",
+        "Tactician",
+        "Acrobat",
+        "Clinical Finisher",
+        "Midfielder"
+      ],
+      "strength": 80,
+      "ballcontrol": 99,
+      "marking": 32,
+      "height": 176,
+      "quality": "gold",
+      "weight": 74,
+      "gkhandling": 8,
+      "id": "84083861",
+      "aggression": 79,
+      "agility": 92,
+      "contracts": null,
+      "skillMoves": 4,
+      "acceleration": 91,
+      "composure": 95,
+      "shortpassing": 99,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 88,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 99,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 70,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 85,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 90,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/45.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/45.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/45.png"
+        },
+        "abbrName": "Spain",
+        "imgUrl": null,
+        "name": "Spain",
+        "id": 45
+      },
+      "positionFull": "Centre Midfielder",
+      "age": 26,
+      "traits": [
+        "Selfish",
+        "Shooting - Finesse Shot",
+        "Playmaker",
+        "Technical Dribbler"
+      ],
+      "gkpositioning": 15,
+      "shotpower": 84,
+      "rating": 97,
+      "positioning": 97,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/197781.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/197781.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/197781.png"
+      },
+      "standingtackle": 94,
+      "gkdiving": 10,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/197781.png",
+      "balance": 94,
+      "vision": 99,
+      "sprintspeed": 85,
+      "atkWorkRate": "High",
+      "baseId": 197781,
+      "penalties": 88,
+      "isLoan": null,
+      "weakFoot": 3,
+      "jumping": 87,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 99,
+      "isSpecialType": true,
+      "position": "CM",
+      "longshots": 99,
+      "crossing": 85,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Isco",
+      "finishing": 99,
+      "commonName": "Isco",
+      "firstName": "Francisco Rom\u00e1n",
+      "color": "rtr_selected",
+      "reactions": 87,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 99,
+      "headingaccuracy": 71,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 97,
+      "dribbling": 99,
+      "slidingtackle": 66,
+      "isGK": false
+    },
+    {
+      "interceptions": 32,
+      "volleys": 91,
+      "squadPosition": null,
+      "gkreflexes": 11,
+      "defWorkRate": "Low",
+      "gkkicking": 15,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l243.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l243.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l243.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l243.png"
+          }
+        },
+        "abbrName": "R. Madrid",
+        "imgUrl": null,
+        "name": "Real Madrid",
+        "id": 243
+      },
+      "lastName": "dos Santos Aveiro",
+      "freekickaccuracy": 82,
+      "birthdate": "1985-02-05",
+      "specialities": [
+        "Speedster",
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "Crosser",
+        "Acrobat",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 86,
+      "ballcontrol": 97,
+      "marking": 24,
+      "height": 185,
+      "quality": "gold",
+      "weight": 80,
+      "gkhandling": 11,
+      "id": "134238529",
+      "aggression": 67,
+      "agility": 92,
+      "contracts": null,
+      "skillMoves": 5,
+      "acceleration": 91,
+      "composure": 99,
+      "shortpassing": 90,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 89,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 94,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 37,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 86,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 94,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/38.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/38.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/38.png"
+        },
+        "abbrName": "Portugal",
+        "imgUrl": null,
+        "name": "Portugal",
+        "id": 38
+      },
+      "positionFull": "Striker",
+      "age": 33,
+      "traits": [
+        "Takes Powerful Driven Free Kicks",
+        "Flair",
+        "Shooting - Long Shot Taker",
+        "Dribbler - Speed Dribbler"
+      ],
+      "gkpositioning": 14,
+      "shotpower": 98,
+      "rating": 97,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/20801.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/20801.png"
+      },
+      "standingtackle": 34,
+      "gkdiving": 7,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/20801.png",
+      "balance": 65,
+      "vision": 92,
+      "sprintspeed": 94,
+      "atkWorkRate": "High",
+      "baseId": 20801,
+      "penalties": 88,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 99,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 83,
+      "isSpecialType": true,
+      "position": "ST",
+      "longshots": 95,
+      "crossing": 92,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Cristiano Ronaldo",
+      "finishing": 98,
+      "commonName": "Cristiano Ronaldo",
+      "firstName": "C. Ronaldo",
+      "color": "europe_motm",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 87,
+      "headingaccuracy": 98,
+      "league": {
+        "id": 53,
+        "abbrName": "ESP 1",
+        "imgUrl": null,
+        "name": "LaLiga Santander"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "special edition",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 98,
+      "dribbling": 95,
+      "slidingtackle": 25,
+      "isGK": false
+    },
+    {
+      "interceptions": 51,
+      "volleys": 95,
+      "squadPosition": null,
+      "gkreflexes": 10,
+      "defWorkRate": "Medium",
+      "gkkicking": 12,
+      "club": {
+        "imageUrls": {
+          "normal": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/27x27/l21.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/34x34/l21.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/normal/24x24/l21.png"
+          },
+          "dark": {
+            "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/27x27/l21.png",
+            "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/34x34/l21.png",
+            "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/clubbadges/html5/dark/24x24/l21.png"
+          }
+        },
+        "abbrName": "Bayern",
+        "imgUrl": null,
+        "name": "FC Bayern M\u00fcnchen",
+        "id": 21
+      },
+      "lastName": "Lewandowski",
+      "freekickaccuracy": 99,
+      "birthdate": "1988-08-21",
+      "specialities": [
+        "Aerial Threat",
+        "Dribbler",
+        "Distance Shooter",
+        "FK Specialist",
+        "Acrobat",
+        "Strength",
+        "Clinical Finisher",
+        "Complete Forward",
+        "Poacher"
+      ],
+      "strength": 95,
+      "ballcontrol": 98,
+      "marking": 32,
+      "height": 185,
+      "quality": "gold",
+      "weight": 79,
+      "gkhandling": 6,
+      "id": "134406273",
+      "aggression": 90,
+      "agility": 86,
+      "contracts": null,
+      "skillMoves": 3,
+      "acceleration": 86,
+      "composure": 96,
+      "shortpassing": 98,
+      "attributes": [
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 89,
+          "name": "fut.attribute.PAC"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 97,
+          "name": "fut.attribute.SHO"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 89,
+          "name": "fut.attribute.PAS"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 95,
+          "name": "fut.attribute.DRI"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 50,
+          "name": "fut.attribute.DEF"
+        },
+        {
+          "chemistryBonus": [
+            0
+          ],
+          "value": 93,
+          "name": "fut.attribute.PHY"
+        }
+      ],
+      "potential": 91,
+      "nation": {
+        "imageUrls": {
+          "medium": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/30x19/37.png",
+          "large": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/40x25/37.png",
+          "small": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/flags/html5/24x14/37.png"
+        },
+        "abbrName": "Poland",
+        "imgUrl": null,
+        "name": "Poland",
+        "id": 37
+      },
+      "positionFull": "Striker",
+      "age": 29,
+      "traits": [
+        "Shooting - Finesse Shot",
+        "Shooting - Chip Shot"
+      ],
+      "gkpositioning": 8,
+      "shotpower": 97,
+      "rating": 97,
+      "positioning": 99,
+      "headshot": {
+        "smallImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/40x40/188545.png",
+        "largeImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/188545.png",
+        "medImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/105x105/188545.png"
+      },
+      "standingtackle": 55,
+      "gkdiving": 15,
+      "iconAttributes": null,
+      "headshotImgUrl": "https://fifa17.content.easports.com/fifa/fltOnlineAssets/B1BA185F-AD7C-4128-8A64-746DE4EC5A82/2018/fut/items/images/players/html5/134x134/188545.png",
+      "balance": 88,
+      "vision": 92,
+      "sprintspeed": 91,
+      "atkWorkRate": "High",
+      "baseId": 188545,
+      "penalties": 89,
+      "isLoan": null,
+      "weakFoot": 4,
+      "jumping": 95,
+      "rawAttributeChemistryBonus": null,
+      "longpassing": 77,
+      "isSpecialType": false,
+      "position": "ST",
+      "longshots": 91,
+      "crossing": 73,
+      "itemType": "player",
+      "fitness": null,
+      "name": "Lewandowski",
+      "finishing": 99,
+      "commonName": "",
+      "firstName": "Robert",
+      "color": "tots_gold",
+      "reactions": 99,
+      "playStyleId": null,
+      "foot": "Right",
+      "curve": 91,
+      "headingaccuracy": 99,
+      "league": {
+        "id": 19,
+        "abbrName": "GER 1",
+        "imgUrl": null,
+        "name": "Bundesliga"
+      },
+      "playStyle": "Basic",
+      "discardValue": null,
+      "playerType": "TEAM OF THE SEASON",
+      "specialImages": {
+        "largeTOTWImgUrl": null,
+        "medTOTWImgUrl": null
+      },
+      "modelName": "FUTPlayerItem",
+      "stamina": 89,
+      "dribbling": 93,
+      "slidingtackle": 25,
+      "isGK": false
+    }
+  ],
+  "totalResults": 21605,
+  "count": 24,
+  "page": 1,
+  "totalPages": 901,
+  "type": "FUTPlayerItemList"
+}

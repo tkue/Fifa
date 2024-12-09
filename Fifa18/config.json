@@ -1,0 +1,27 @@
+{
+  "database": {
+    "name": "fifa.db",
+    "schema_script": "database/schema/schema.sql",
+    "setup_scripts": [
+      "database/schema/schema_data.sql",
+      "database/schema/clubs.sql",
+      "database/schema/countries.sql",
+      "database/schema/leagues.sql"
+    ]
+  },
+  "logging": {
+    "level": "DEBUG"
+  },
+  "urls": [
+    {
+      "name": "webapp",
+      "url": "https://www.easports.com/fifa/ultimate-team/web-app/"
+    }
+  ],
+  "selenium": {
+      "chrome_driver_path": "../lib/drivers/chromedriver",
+      "chrome_driver_arguments": [
+          "--start-maximized"
+      ]
+  }
+}
